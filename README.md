@@ -4,9 +4,11 @@ This repo contains list of resources, that I found interesting and relevant, for
 
 ## Quarto Resources
 
+
+| Resource | Link |
+| --- | --- | 
 | Markdown Basics | https://quarto.org/docs/authoring/markdown-basics.html |
-| --- | --- |
-| Hello Quarto | ‣ |
+| Hello Quarto | https://github.com/mine-cetinkaya-rundel/hello-quarto |
 | VSCode | https://quarto.org/docs/get-started/hello/vscode.html |
 | Program Evaluation for Public Service (Course Website) | https://evalf22.classes.andrewheiss.com/ |
 | Program Evaluation for Public Service (Code for the website) | https://github.com/andrewheiss/evalf22.classes.andrewheiss.com/tree/main/slides |
