@@ -18,6 +18,10 @@ This repo contains list of resources, that I found interesting and relevant, for
 | Code for dagstat2022 talk  | https://github.com/mine-cetinkaya-rundel/tidyperspective/blob/main/talks/dagstat-2022.qmd |
 | Quarto Python Virtual Environments | https://quarto.org/docs/projects/virtual-environments.html |
 
+### Examples
+
+- [Dan Sjoberg's talk at R/Medicine 2022](https://github.com/ddsjoberg/clinical-reporting-gtsummary-rmed/tree/main/slides) has lots of cool Quarto presentation tricks and featuers
+
 ## Dask
 
 [https://gist.github.com/jacobtomlinson/ee5ba79228e42bcc9975faf0179c3d1a](https://gist.github.com/jacobtomlinson/ee5ba79228e42bcc9975faf0179c3d1a)
@@ -49,6 +53,8 @@ This repo contains list of resources, that I found interesting and relevant, for
 [The Cathedral and the Bazaar](http://www.unterstein.net/su/docs/CathBaz.pdf)
 
 [Code smells for machine learning applications](https://arxiv.org/pdf/2203.13746.pdf)
+
+[Code smells and feels](https://rstd.io/code-smells) by Jenny Bryan
 
 ## ANLY-502
 
