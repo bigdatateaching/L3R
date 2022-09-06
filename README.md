@@ -22,6 +22,10 @@ This repo contains list of resources, that I found interesting and relevant, for
 
 - [Dan Sjoberg's talk at R/Medicine 2022](https://github.com/ddsjoberg/clinical-reporting-gtsummary-rmed/tree/main/slides) has lots of cool Quarto presentation tricks and featuers
 
+## Spark
+
+[https://aws.amazon.com/blogs/machine-learning/perform-interactive-data-engineering-and-data-science-workflows-from-amazon-sagemaker-studio-notebooks/](https://aws.amazon.com/blogs/machine-learning/perform-interactive-data-engineering-and-data-science-workflows-from-amazon-sagemaker-studio-notebooks/)
+
 ## Dask
 
 [https://gist.github.com/jacobtomlinson/ee5ba79228e42bcc9975faf0179c3d1a](https://gist.github.com/jacobtomlinson/ee5ba79228e42bcc9975faf0179c3d1a)
@@ -32,11 +36,16 @@ This repo contains list of resources, that I found interesting and relevant, for
 
 [https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/](https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/)
 
+## Ray
+
+[https://aws.amazon.com/blogs/opensource/scaling-ai-and-machine-learning-workloads-with-ray-on-aws/](https://aws.amazon.com/blogs/opensource/scaling-ai-and-machine-learning-workloads-with-ray-on-aws/)
+
+
 ## Data Science on the Cloud
 
 [Data Science on the Google Cloud Platform](https://www.amazon.com/Data-Science-Google-Cloud-Platform/dp/1491974567)
 
-[Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391)
+[Data Science on AWS](https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391), [GitHub Repo](https://github.com/data-science-on-aws/data-science-on-aws) to go along with the book.
 
 ## Linear Algebra
 
